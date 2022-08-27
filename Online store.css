@@ -1,0 +1,32 @@
+#flip {
+  padding:16px;
+  background-color:grey;
+  color:white;
+  font-family:Calibri;
+  Font-weight:bold;
+  }
+#margin
+{
+margin-left:10px;
+}
+#panel {
+  padding:20px;
+  margin-top:5px;
+  background-color:pink;
+  color:black;
+  text-align:center;
+  display:none;
+  font-family:calibri;
+  Font-weight:bold;
+  font-size:29px;
+}
+#form
+{
+font-size:20px;
+border:3px solid  blue;
+}
+#border
+{
+padding:7px;  
+background-color:powderblue;
+}
